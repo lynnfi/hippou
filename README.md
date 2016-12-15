@@ -15,7 +15,7 @@ Hippou Library 官方地址：[河马图书馆] (http://hippou.cc)
 
 你可以通过提交Issue或是发送E-mail[minskychen@gmail.com](mailto:minskychen@gmail.com)与我们取得联系，参与产品的设计、开发过程。该文档会持续更新，而我也希望这个项目本身能够为人们带来便捷。如有勘误欢迎指正，[点此](https://github.com/lynnfi/hippou/issues)提问。
 
-不论你是UI设计师、产品经理还是前端工程师、后端工程师、IOS、Android工程师，如有兴趣，我们也十分欢迎你能够加入我们的项目中来。:)
+不论你是UI设计师、产品经理还是前端工程师、后端工程师、iOS、Android工程师，如有兴趣，我们也十分欢迎你能够加入我们的项目中来。:)
 
 ### Get start 如何开始阅读
 
@@ -30,7 +30,9 @@ Hippou Library 官方地址：[河马图书馆] (http://hippou.cc)
 
 ### 鸣谢:
 从想法到实践是一条艰辛的路程，而幸运的是，在前进的过程中我们得到了很多小伙伴的帮助，在此向他们表示感谢。
-* 郑志勤: [？.com](http://.com)
+
+* 郑志勤: [https://github.com/zzqiltw](mailto: zzqiltw@gmail.com) 
+ [By the great wind, I come!]
 * 贺奇: [？(at)gmail.com](mailto:1@gmail.com)
 * 李奕旋: [liyixuan](http://weibo.com/)
 * Twitter: [test](https://twitter.com/)
