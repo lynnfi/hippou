@@ -4,11 +4,16 @@
   "author": "Chentao",
   "plugins": [
     "disqus",
-    "splitter"
+    "splitter",
+    "book-summary-scroll-position-saver",
+    "baidu_gio"
   ],
   "pluginsConfig": {
     "disqus": {
       "shortName": "gitbookuse"
+    },
+    "baidu_gio": {
+      "token": "cbcc14a592f9eee91747922ec206d083"
     }
   }
 }
