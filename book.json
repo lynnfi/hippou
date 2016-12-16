@@ -4,16 +4,11 @@
   "author": "Chentao",
   "plugins": [
     "disqus",
-    "sitemap@1.0.2",
-    "tbfed-pagefooter",
     "splitter"
   ],
   "pluginsConfig": {
     "disqus": {
       "shortName": "gitbookuse"
-    },
-    "sitemap": {
-      "hostname": "http://mybook.com/"
     }
   }
 }
