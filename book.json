@@ -3,7 +3,7 @@
   "description": "Hippou Library 你的共享图书馆",
   "author": "Chentao",
   "plugins": [
-    // "toggle-chapters",
+    "toggle-chapters",
     "include-codeblock",
     "sectionx",
     "splitter"
