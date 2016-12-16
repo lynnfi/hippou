@@ -1,0 +1,16 @@
+{
+  "title": "河马图书馆",
+  "description": "Hippou Library 你的共享图书馆",
+  "author": "Chentao",
+  "plugins": [
+    "toggle-chapters",
+    "include-codeblock",
+    "sectionx",
+    "splitter"
+  ],
+  "pluginsConfig": {
+    "fontSettings": {
+      "family": "serif"
+    }
+  }
+}
