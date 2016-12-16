@@ -14,7 +14,7 @@ This is the summary of my book.
 		* [5.1市场特征](II. Market Requirements Document/5.1市场特征.md)
 		* [5.2典型用户](II. Market Requirements Document/5.2典型用户.md)
 		* [5.3典型场景](II. Market Requirements Document/5.3典型场景.md)
-	* 6.市场调研与评估
+	* 6.竞品分析
 		* [6.1乐开漂流](II. Market Requirements Document/6.1乐开漂流.md)
 		* [6.2 p2p换书](II. Market Requirements Document/6.2 p2p换书.md)
 		* [6.3读书群](II. Market Requirements Document/6.3读书群.md)
@@ -28,15 +28,15 @@ This is the summary of my book.
 * [III. WEB端产品需求文档](III. WEB端产品需求文档/版本信息.md)
 	* [9.产品规划](III. WEB端产品需求文档/9.产品规划.md)
 	* 10.信息结构设计
-		* [10.1信息结构](III. 产品需求文档/10.1信息结构.md)
-		* [10.2产品结构](III. 产品需求文档/10.2产品结构.md)
-	* [11.全局说明](III. 产品需求文档/11.全局说明)
-		* [11.3页面布局](III. 产品需求文档/11.3页面布局.md)
-		* [11.1数据统计](III. 产品需求文档/11.1数据统计.md)
-		* [11.2用户反馈](III. 产品需求文档/11.2用户反馈.md)
-	* [12.功能需求](III. 产品需求文档/12.功能需求.md)
-		* [12.1首页](III. 产品需求文档/12.1首页.md)
-		* [12.2用户反馈页](III. 产品需求文档/12.2用户反馈页.md)
+		* [10.1信息结构](III. WEB端产品需求文档/10.1信息结构.md)
+		* [10.2产品结构](III. WEB端产品需求文档/10.2产品结构.md)
+	* [11.全局说明](III. WEB端产品需求文档/11.全局说明)
+		* [11.3页面布局](III. WEB端产品需求文档/11.3页面布局.md)
+		* [11.1数据统计](III. WEB端产品需求文档/11.1数据统计.md)
+		* [11.2用户反馈](III. WEB端产品需求文档/11.2用户反馈.md)
+	* [12.功能需求](III. WEB端产品需求文档/12.功能需求.md)
+		* [12.1首页](III. WEB端产品需求文档/12.1首页.md)
+		* [12.2用户反馈页](III. WEB端产品需求文档/12.2用户反馈页.md)
 * [IV. IOS端产品需求文档](IV. IOS端产品需求文档/版本信息.md)
 	* [13.产品规划](IV. IOS端产品需求文档/13.产品规划.md)
 	* 14.信息结构设计
