@@ -3,15 +3,11 @@
   "description": "Hippou Library 你的共享图书馆",
   "author": "Chentao",
   "plugins": [
-    "disqus",
     "splitter",
     "book-summary-scroll-position-saver",
     "baidu_gio"
   ],
   "pluginsConfig": {
-    "disqus": {
-      "shortName": "gitbookuse"
-    },
     "baidu_gio": {
       "token": "ee2214b3a506cdee4f58851afc6656c3"
     }
