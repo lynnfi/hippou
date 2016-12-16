@@ -3,14 +3,17 @@
   "description": "Hippou Library 你的共享图书馆",
   "author": "Chentao",
   "plugins": [
-    "toggle-chapters",
-    "include-codeblock",
-    "sectionx",
+    "disqus",
+    "sitemap@1.0.2",
+    "tbfed-pagefooter",
     "splitter"
   ],
   "pluginsConfig": {
-    "fontSettings": {
-      "family": "serif"
+    "disqus": {
+      "shortName": "gitbookuse"
+    },
+    "sitemap": {
+      "hostname": "http://mybook.com/"
     }
   }
 }
