@@ -5,11 +5,15 @@
   "plugins": [
     "splitter",
     "book-summary-scroll-position-saver",
-    "baidu_gio"
+    "baidu_gio",
+    "sitemap"
   ],
   "pluginsConfig": {
     "baidu_gio": {
       "token": "ee2214b3a506cdee4f58851afc6656c3"
+    },
+    "sitemap": {
+      "hostname": "http://mybook.com/"
     }
   }
 }
